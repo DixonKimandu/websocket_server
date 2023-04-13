@@ -1,0 +1,24 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "nodejs websocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DixonKimandu/websocket_server.git"
+  },
+  "author": "Kimandu Ndung'u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DixonKimandu/websocket_server/issues"
+  },
+  "homepage": "https://github.com/DixonKimandu/websocket_server#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
